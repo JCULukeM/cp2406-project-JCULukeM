@@ -1,2 +1,60 @@
 Add your main user stories here.
 Remove this file.
+
+User story 1
+A user needs to be able to run the simulation, quit and list the house contents
+
+Estimate: 1 hours
+------------------------
+User story 2
+A user needs the air conditioner temperature to turn when
+it reaches 30 degrees so that the house is not too hot when they get home.
+
+Estimate: 4 hours
+------------------------
+User story 3
+A user needs to have their sprinkler turn off when it rains so that it
+doesn't unnecessarily water the garden.
+
+Estimate: 4 hours
+------------------------
+User story 4
+A user needs the coffee machine to make a coffee at 7:30 AM so that
+they can have a coffee immediately after waking.
+
+Estimate: 5 hours
+------------------------
+User story 5
+A user wants the garage door to open and turn on the lights for 5mins so
+they can see upon arriving home.
+
+Estimate: 4 hours
+------------------------
+User story 6
+A user wants the lights in a room to turn on when the light levels drop
+below 70% so that they are able to see.
+Estimate:3 hours
+------------------------
+User story 7
+A user wants the lights to turn off 20 mins after no motion is detected
+so that they save electricity when they are not home.
+
+Estimate: 3 hours
+------------------------
+User story 8
+A user wants to see the status of their oven so that they can have
+peace of mind that they did not leave it on.
+
+Estimate: 1 hour
+------------------------
+User story 9
+A user wants to see their electricity usage for the day so that they
+know how much they are using.
+
+Estimate: 2 hours
+------------------------
+User story 10
+A user wants to see their water usage for the day so that they
+know how much they are using.
+
+Estimate: 2 hours
