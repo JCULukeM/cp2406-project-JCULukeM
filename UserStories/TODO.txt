@@ -7,7 +7,7 @@ A user needs to be able to run the simulation, quit and list the house contents
 Estimate: 1 hours
 ------------------------
 User story 2
-A user needs the air conditioner temperature to turn when
+A user needs the air conditioner temperature to turn on when
 it reaches 30 degrees so that the house is not too hot when they get home.
 
 Estimate: 4 hours
